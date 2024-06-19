@@ -39,6 +39,7 @@
     "lucide-react": "^0.336.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-feather": "^2.0.10",
     "react-hook-form": "^7.50.1",
     "react-resizable-panels": "^2.0.9",
     "react-router-dom": "^6.23.1",
